@@ -1,7 +1,8 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/logs/index"
+    "pages/logs/logs",
+    "pages/list/list"
   ],
   "window": {
     "navigationBarTitleText": "Demo"
@@ -24,3 +25,4 @@
   },
   "debug": true
 }
+
